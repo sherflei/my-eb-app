@@ -111,7 +111,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>It Worked!</h1>
-    <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
+    <p>Your first AWS Elastic Beanstalk Python Application is now runnning on your own dedicated environment in the AWS Cloud</p>
   </div>
   
   <div class="linksColumn"> 
